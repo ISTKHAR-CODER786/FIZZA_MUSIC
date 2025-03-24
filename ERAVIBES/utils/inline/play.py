@@ -44,8 +44,8 @@ def stream_markup_timer(_, chat_id, played, dur):
             InlineKeyboardButton(text="▶ ᴘʟᴀʏ", callback_data=f"ADMIN Resume|{chat_id}")
         ],
         [
-            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/net_pro_max"),
-            InlineKeyboardButton("˹ sᴜᴘᴘᴏꝛᴛ  ˼", url="https://t.me/+cXIPgHSuJnxiNjU1")            
+            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/THUNDERDEVS"),
+            InlineKeyboardButton("˹ sᴜᴘᴘᴏꝛᴛ  ˼", url="https://t.me/+pnDJxCG5VVphMTVl")            
         ],
         [
             InlineKeyboardButton(text=_["CLOSE_BUTTON"].lower(), callback_data="close")
@@ -64,8 +64,8 @@ def stream_markup(_, chat_id):
             InlineKeyboardButton(text="▶ ᴘʟᴀʏ", callback_data=f"ADMIN Resume|{chat_id}")
         ],
         [
-            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/net_pro_max"),
-            InlineKeyboardButton("˹ sᴜᴘᴘᴏꝛᴛ  ˼", url="https://t.me/+cXIPgHSuJnxiNjU1")            
+            InlineKeyboardButton("˹ ᴜᴘᴅᴧᴛᴇ ˼", url="https://t.me/THUNDERDEVS"),
+            InlineKeyboardButton("˹ sᴜᴘᴘᴏꝛᴛ  ˼", url="https://t.me/+pnDJxCG5VVphMTVl")            
         ],
         [
             InlineKeyboardButton(text=_["CLOSE_BUTTON"].lower(), callback_data="close")
@@ -107,10 +107,10 @@ def stream_markup(_, chat_id):
         ],
        [
             InlineKeyboardButton(
-                text="✰ ᴜᴘᴅᴧᴛᴇ ✰", url=f"t.me/ai_image_junction"
+                text="✰ ᴜᴘᴅᴧᴛᴇ ✰", url=f"t.me/THUNDERDEVS"
             ),
             InlineKeyboardButton(
-                text="✰ sᴜᴘᴘᴏꝛᴛ ✰", url=f"t.me/+cXIPgHSuJnxiNjU1"
+                text="✰ sᴜᴘᴘᴏꝛᴛ ✰", url=f"https://t.me/+pnDJxCG5VVphMTVl"
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
