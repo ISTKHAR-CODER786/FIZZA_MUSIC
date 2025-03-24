@@ -64,7 +64,7 @@
         },
         "UPSTREAM_REPO": {
             "description": "If you dont know this, Leave as it is",
-            "value": "https://github.com/IamDvis/DV-VIBES",
+            "value": "https://github.com/ISTKHAR-CODER786/FIZZA_MUSIC",
             "required": true
         },
         "UPSTREAM_BRANCH": {
